@@ -1,6 +1,6 @@
 # Ipsum Lorem is All You Need
 
-This repository contains the implementation for the paper "Ipsum Lorem is All You Need".
+This repository contains the implementation for the paper "Ipsum Lorem is All You Need" published at COML 2025.
 
 ## Overview
 
@@ -69,11 +69,13 @@ python src/training/compare.py --baseline bert-base --our-model ipsum-lorem
 
 ## Citation
 
+If you find this work useful, please consider citing:
+
 ```bibtex
 @inproceedings{smith2025ipsum,
   title={Ipsum Lorem is All You Need},
   author={Smith, John and others},
-  booktitle={Under review at COML 2025 - Conference on Machine Learning},
+  booktitle={Proceedings of the Conference on Machine Learning (COML 2025)},
   year={2025}
 }
 ```
